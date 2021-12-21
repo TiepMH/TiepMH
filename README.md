@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Recent Blog Posts
 
   * [Cross-Correlation](https://...)
-  * [FFT and IFFT: Visualization with Matlab and Python(https://...)
+  * [FFT and IFFT: Visualization with Matlab and Python](https://...)
