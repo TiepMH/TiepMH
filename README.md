@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Recent Blog Posts
+### Recent Notes
 
-  * [Cross-Correlation](https://...)
-  * [FFT and IFFT: Visualization with Matlab and Python](https://...)
+  * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation/blob/main/ReadMe.pdf)
+  * [FFT and IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
+  * [Floating point operations (FLOPS)](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
+  * [First-order Taylor Expansion](https://github.com/TiepMH/first_order_Taylor_expansion)
+  * [Rayleigh-Ritz Theorem](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
