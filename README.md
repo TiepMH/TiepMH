@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Recent Blog Posts
+
+  * [Cross-Correlation](https://...)
+  * [FFT and IFFT: Visualization with Matlab and Python(https://...)
