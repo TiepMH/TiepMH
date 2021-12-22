@@ -27,3 +27,8 @@ Here are some ideas to get you started:
   * [Alternating Algorithm (Convex Optimization)](https://github.com/TiepMH)
   * [First-oder Taylor Expansion](https://github.com/TiepMH)
   * [FFT/ITTF: Visualization with Matlab and Python](https://github.com/TiepMH)
+
+### GitHub Stats & Favourite Languages
+
+| <a href="https://github.com/tiepmh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiepmh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tiepmh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiepmh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
