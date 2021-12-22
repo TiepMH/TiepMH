@@ -20,13 +20,8 @@ Here are some ideas to get you started:
   * [First-oder Taylor Expansion](https://github.com/TiepMH/first_order_Taylor_expansion)
   * [Rayleigh-Ritz Theorem](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
   * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation)
-  * [FFT/ITTF: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
+  * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
-### Recent Blog Posts
-
-  * [Alternating Algorithm (Convex Optimization)](https://github.com/TiepMH)
-  * [First-oder Taylor Expansion](https://github.com/TiepMH)
-  * [FFT/ITTF: Visualization with Matlab and Python](https://github.com/TiepMH)
 
 ### GitHub Stats & Favourite Languages
 
