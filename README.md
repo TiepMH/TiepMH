@@ -22,6 +22,10 @@ Here are some ideas to get you started:
   * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation)
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
+### Special Topics (I will update these topics later)
+ * Deep Learning
+ * Channel Capacity
+ * Etc
 
 ### GitHub Stats & Favourite Languages
 
