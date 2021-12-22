@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Notes and Tutorials
+  * [Alternating Algorithm (Convex Optimization)](https://github.com/TiepMH/Example__Alternating_Optimization)
+  * [First-oder Taylor Expansion](https://github.com/TiepMH/first_order_Taylor_expansion)
+  * [Rayleigh-Ritz Theorem](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
+  * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation)
+  * [FFT/ITTF: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python)
+
 ### Recent Blog Posts
 
   * [Alternating Algorithm (Convex Optimization)](https://github.com/TiepMH)
