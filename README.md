@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Recent Blog Posts
 
-### Recent Notes
-
-  * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation/blob/main/ReadMe.pdf)
-  * [FFT and IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
-  * [Floating point operations (FLOPS)](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
-  * [First-order Taylor Expansion](https://github.com/TiepMH/first_order_Taylor_expansion)
-  * [Rayleigh-Ritz Theorem](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
+  * [Installing nodejs on macOS Apple Silicon (M1)](https://michael.codes/posts/nodejs_apple_silicon/)
+  * [Display latest blog posts on GitHub profile readme](https://michael.codes/posts/github-profile-readme/)
+  * [Kotlin Type Aliases](https://michael.codes/posts/kotlin-typealias/)
+  * [Introduction to Kotlin (Part 3): classes, properties, objects, and interfaces](https://michael.codes/posts/kotlin-part3-classes/)
+  * [Introduction to Kotlin (Part 2): if, when, and looping](https://michael.codes/posts/kotlin-part2-conditionals-loops/)
