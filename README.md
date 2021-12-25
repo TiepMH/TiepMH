@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  * Bit error rate (BER) and/or symbole error rate (SER)
  * Reconfigurable intelligent surface (RIS)
  * Statistics (ANOVA, Chi-squares, etc)
- * MUSIC algorithm, peak finding
+ * Peak finding (MUSIC algorithm, etc)
  * Etc
 
 ### GitHub Stats & Favourite Languages
