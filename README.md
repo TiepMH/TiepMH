@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    - etc
  * Channel Capacity (CCMC & DCMC)
  * BER/SER
- * Statistics (ANOVA test, Chi-squares, etc)
+ * Statistics (ANOVA, Chi-squares, etc)
  * Etc
 
 ### GitHub Stats & Favourite Languages
