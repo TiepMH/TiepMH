@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  * Reconfigurable intelligent surface (RIS)
  * Statistics (ANOVA, Chi-squares, etc)
  * Peak finding (MUSIC algorithm, etc)
- * Etc
+ * Other major topics
 
 ### GitHub Stats & Favourite Languages
 
