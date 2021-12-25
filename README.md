@@ -23,7 +23,10 @@ Here are some ideas to get you started:
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
 ### Special Topics (I will update the following topics later.)
- * Deep Learning
+ * Deep Learning:
+   - Using [deep neural networks] to optimize variables
+   - Using [deep auto-encoders] to detect abnormal RF signals and to estimate angle of arrivals (AOAs)
+   - Using [LSTM] to predict the abnormal signals in high-mobility scenarios
  * Convex Optimization:
    - [Dinkelbach method](https://github.com/TiepMH/Example__Alternating_Optimization)
    - Projected gradient descent
