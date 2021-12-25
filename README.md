@@ -32,7 +32,8 @@ Here are some ideas to get you started:
    - Projected gradient descent
    - etc
  * Channel Capacity (CCMC & DCMC)
- * BER/SER
+ * Bit error rate (BER) and/or symbole error rate (SER)
+ * Reconfigurable intelligent surface (RIS)
  * Statistics (ANOVA, Chi-squares, etc)
  * Etc
 
