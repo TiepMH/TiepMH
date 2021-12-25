@@ -22,9 +22,14 @@ Here are some ideas to get you started:
   * [Cross-Correlation](https://github.com/TiepMH/CrossCorrelation)
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
-### Special Topics (I will update these topics later)
+### Special Topics (I will update the following topics later.)
  * Deep Learning
- * Channel Capacity
+ * Convex Optimization:
+   - [Dinkelbach method](https://github.com/TiepMH/Example__Alternating_Optimization)
+   - Projected gradient descent
+   - etc
+ * Channel Capacity (CCMC & DCMC)
+ * BER/SER
  * Etc
 
 ### GitHub Stats & Favourite Languages
