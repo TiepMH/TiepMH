@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Special Topics (I will update the following topics later.)
  * Deep Learning:
-   - Using [deep neural networks] to optimize variables
+   - [Training a DNN to find a near-optimal power-allocation coefficient](https://github.com/TiepMH/tanh_based_Neural_Network)
    - Using [deep auto-encoders] to detect abnormal RF signals and to estimate angle of arrivals (AOAs)
    - Using [LSTM] to predict the abnormal signals in high-mobility scenarios
  * Convex Optimization:
