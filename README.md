@@ -37,7 +37,7 @@ Here are some ideas to get you started:
    - etc
  * #### Channel Capacity (CCMC & DCMC)
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
-   - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/Modulation_Schemes)
+   - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/BPSK_BER)
    - etc
  * #### Reconfigurable Intelligent Surface (RIS)
  * #### Statistics
