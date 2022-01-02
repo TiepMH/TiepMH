@@ -33,9 +33,12 @@ Here are some ideas to get you started:
    - [Newton's Method]
    - [Complex Partial Derivative & Complex Gradient](https://github.com/TiepMH/first_order_Taylor_expansion/blob/main/Read%20Me.pdf)
    - [Rayleigh-Ritz Theorem & Its Variants](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
+   - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
    - etc
  * #### Channel Capacity (CCMC & DCMC)
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
+   - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/Modulation_Schemes)
+   - etc
  * #### Reconfigurable Intelligent Surface (RIS)
  * #### Statistics
    - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
