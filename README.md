@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 ### GitHub Stats & Favourite Languages
 
-| <a href="https://github.com/tiepmh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiepmh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tiepmh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiepmh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/tiepmh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiepmh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- |
