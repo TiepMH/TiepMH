@@ -24,21 +24,24 @@ Here are some ideas to get you started:
 
 ### Special Topics (I will update the following topics later.)
  * #### Deep Learning / Deep Neural Networks:
-   - [The concept of learning-to-optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
+   - [The Concept of Learning-to-Optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
    - [Anomaly Detection & Estimation] Use deep auto-encoders to detect abnormal angle of arrivals
    - Using [LSTM] to predict the abnormal signals in high-mobility scenarios
- * #### Convex Optimization:
-   - [Dinkelbach method](https://github.com/TiepMH/Example__Alternating_Optimization)
-   - Projected gradient descent
+ * #### Convex Optimization & Matrix Analysis:
+   - [Dinkelbach Method](https://github.com/TiepMH/Example__Alternating_Optimization)
+   - [Gradient Descent (GD) and Projected-GD Methods]
+   - [Newton's Method]
+   - [Complex Partial Derivative & Complex Gradient](https://github.com/TiepMH/first_order_Taylor_expansion/blob/main/Read%20Me.pdf)
+   - [Rayleigh-Ritz Theorem & Its Variants](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
    - etc
  * #### Channel Capacity (CCMC & DCMC)
- * #### Bit error rate (BER) and/or symbole error rate (SER)
- * #### Reconfigurable intelligent surface (RIS)
+ * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
+ * #### Reconfigurable Intelligent Surface (RIS)
  * #### Statistics
    - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
    - Chi-squares
    - etc
- * Peak finding (MUSIC algorithm, etc)
+ * Peak Finding (MUSIC Algorithm, etc)
  * Other major topics
 
 ### GitHub Stats & Favourite Languages
