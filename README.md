@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Special Topics (I will update the following topics later.)
  * #### Deep Learning / Deep Neural Networks:
    - [The Concept of Learning-to-Optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
-   - [Anomaly Detection & Estimation] Use deep auto-encoders to detect abnormal angle of arrivals
+   - [Anomaly Detection & Estimation] [Use deep auto-encoders to detect abnormal angle of arrivals](https://github.com/TiepMH/AutoEncoder__SpoofingDetection)
    - Using [LSTM] to predict the abnormal signals in high-mobility scenarios
  * #### Convex Optimization & Matrix Analysis:
    - [Dinkelbach Method](https://github.com/TiepMH/Example__Alternating_Optimization)
