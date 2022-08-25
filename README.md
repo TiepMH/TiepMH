@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - For Discrete Input (DCMC): 
   - For Continuous Input (CCMC, Shannon capacity): 
  * #### Zero-Forcing Beamforming (ZFBF)
-  - [Matlab code](https://github.com/TiepMH/Zero-Forcing-Beamforming)
+   - [Matlab code](https://github.com/TiepMH/Zero-Forcing-Beamforming)
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
    - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/BPSK_BER)
    - etc
