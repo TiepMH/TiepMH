@@ -36,8 +36,8 @@ Here are some ideas to get you started:
    - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
    - etc
  * #### Channel Capacity (CCMC & DCMC) will be updated later
-  - For Discrete Input (DCMC): 
-  - For Continuous Input (CCMC, Shannon capacity): 
+   - For Discrete Input (DCMC): 
+   - For Continuous Input (CCMC, Shannon capacity): 
  * #### Zero-Forcing Beamforming (ZFBF)
    - [Matlab code](https://github.com/TiepMH/Zero-Forcing-Beamforming)
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
