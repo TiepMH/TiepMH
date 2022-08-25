@@ -35,7 +35,10 @@ Here are some ideas to get you started:
    - [Rayleigh-Ritz Theorem & Its Variants](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
    - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
    - etc
- * #### Channel Capacity (CCMC & DCMC)
+ * #### Channel Capacity (CCMC & DCMC) will be updated later
+  - For Discrete Input (DCMC): 
+  - For Continuous Input (CCMC, Shannon capacity): 
+ * #### Zero-Forcing Beamforming (ZFBF)
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
    - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/BPSK_BER)
    - etc
