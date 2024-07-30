@@ -23,11 +23,12 @@ Here are some ideas to get you started:
   * [Time Delay Estimation](https://github.com/TiepMH/TimeDelayEstimation)
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
-### Special Topics (I will update the following topics later.)
+### Topic 1: Machine Learning in Communications
  * #### Deep Learning / Deep Neural Networks:
    - [The Concept of Learning-to-Optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
    - [Anomaly Detection & Estimation] [Use deep auto-encoders to detect abnormal angle of arrivals](https://github.com/TiepMH/AutoEncoder__SpoofingDetection)
-   - Using [LSTM] to predict the abnormal signals in high-mobility scenarios
+
+### Topic 2: Convex Optimization in Communications
  * #### Convex Optimization & Matrix Analysis:
    - [Dinkelbach Method](https://github.com/TiepMH/Example__Alternating_Optimization)
    - [Gradient Descent (GD) and Projected-GD Methods]
@@ -35,7 +36,8 @@ Here are some ideas to get you started:
    - [Complex Partial Derivative & Complex Gradient](https://github.com/TiepMH/first_order_Taylor_expansion/blob/main/Read%20Me.pdf)
    - [Rayleigh-Ritz Theorem & Its Variants](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
    - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
-   - etc
+
+### Topic 3: Communications - Basic Theory & Simple Tutorials
  * #### Channel Capacity (CCMC & DCMC) will be updated later
    - For Discrete Input (DCMC): 
    - For Continuous Input (CCMC, Shannon capacity): 
@@ -44,8 +46,12 @@ Here are some ideas to get you started:
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
    - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/BPSK_BER)
    - etc
- * #### 5G New Radio (5G NR)
-   - [Positioning in 5G NR](https://github.com/TiepMH/5G-NR-Positioning)
+  * #### TOA and/or AoA Estimation
+    - Using MUSIC Algorithm (will be available soon)
+    - [Using correlation](https://github.com/TiepMH/TimeDelayEstimation)
+
+### Topic 3: Communications - Standards & Specifications in 5G New Radio
+ * #### Positioning in 5G NR
    - Using PRS (positioning reference signal) in the downlink:
   
      Different gNBs transmit PRS to a user (UE) in the **downlink**. On the UE side, the received waveform can be used to estimate the time of arrivals (TOAs).
@@ -63,12 +69,9 @@ Here are some ideas to get you started:
       [Example 1: SISO channel] will be available soon
    
       [Example 2: MISO channel] will be available soon
-   
- * #### Statistics
-   - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
-   - Chi-squares
-   - etc
- * Peak Finding (MUSIC Algorithm, etc)
+
+### Topic 4: Probability and Statistics
+ * #### [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
  * Other major topics
 
 ### GitHub Stats & Favourite Languages
