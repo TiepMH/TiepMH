@@ -47,10 +47,18 @@ Here are some ideas to get you started:
  * #### 5G New Radio (5G NR)
    - [Positioning in 5G NR](https://github.com/TiepMH/5G-NR-Positioning)
    - Using PRS (positioning reference signal) in the downlink:
+  
+     Different gNBs transmit PRS to a user (UE). On the UE side, the received waveform can be used to estimate the time of arrivals (TOAs).
+
+     Each gNB corresponds to a different TOA. As for the UE, it can employ TOAs to localize its position.
+  
+     The following examples focus on estimating TOAs.
      
      [Example 1: SISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_SISO_channel.m)
      
      [Example 2: MISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_MISO_channel.m)
+
+     [Example 3: MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_MIMO_channel.m)
 
    - Using SRS (sounding reference signal) in the uplink:
 
