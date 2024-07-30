@@ -44,7 +44,8 @@ Here are some ideas to get you started:
  * #### Bit Error Rate (BER) and/or Symbol Error Rate (SER)
    - [BER Performance with ML, ZF and MMSE](https://github.com/TiepMH/BPSK_BER)
    - etc
- * #### Reconfigurable Intelligent Surface (RIS)
+ * #### 5G New Radio (5G NR)
+   - [PRS in the downlink]
  * #### Statistics
    - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
    - Chi-squares
