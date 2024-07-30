@@ -50,7 +50,7 @@ Here are some ideas to get you started:
      
      [Example 1: SISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_SISO_channel.m)
      
-     [Example 2: MIMO channel] will be available soon
+     [Example 2: MISO channel] will be available soon
      
  * #### Statistics
    - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
