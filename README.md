@@ -52,7 +52,7 @@ Here are some ideas to get you started:
      
      [Example 2: MISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_MISO_channel.m)
 
- - Using SRS (sounding reference signal) in the uplink:
+   - Using SRS (sounding reference signal) in the uplink:
 
       [Example 1: SISO channel] will be available soon
    
