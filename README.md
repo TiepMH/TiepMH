@@ -48,7 +48,8 @@ Here are some ideas to get you started:
    - etc
   * #### TOA and/or AoA Estimation
     - Using MUSIC Algorithm (will be available soon)
-    - [Using correlation](https://github.com/TiepMH/TimeDelayEstimation)
+    - [Using cross-correlation](https://github.com/TiepMH/TimeDelayEstimation)
+      This method is very useful for highly correlated signals. Cross-correlation is a popular method of estimating time delays in WiFi and 5G NR.
 
 ### Topic 3: Communications - Standards & Specifications in 5G New Radio
  * #### Positioning in 5G NR
