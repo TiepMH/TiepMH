@@ -23,12 +23,14 @@ Here are some ideas to get you started:
   * [Time Delay Estimation](https://github.com/TiepMH/TimeDelayEstimation)
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
-### Topic 1: Machine Learning in Communications
+---
+### Topic: Machine Learning in Communications
  * #### Deep Learning / Deep Neural Networks:
    - [The Concept of Learning-to-Optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
    - [Anomaly Detection & Estimation] [Use deep auto-encoders to detect abnormal angle of arrivals](https://github.com/TiepMH/AutoEncoder__SpoofingDetection)
 
-### Topic 2: Convex Optimization in Communications
+---
+### Topic: Convex Optimization in Communications
  * #### Convex Optimization & Matrix Analysis:
    - [Dinkelbach Method](https://github.com/TiepMH/Example__Alternating_Optimization)
    - [Gradient Descent (GD) and Projected-GD Methods]
@@ -37,7 +39,8 @@ Here are some ideas to get you started:
    - [Rayleigh-Ritz Theorem & Its Variants](https://github.com/TiepMH/Examples__Rayleigh_Ritz_theorem)
    - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
 
-### Topic 3: Communications - Basic Theory & Simple Tutorials
+---
+### Topic: Communications - Basic Theory & Simple Tutorials
  * #### Channel Capacity (CCMC & DCMC) will be updated later
    - For Discrete Input (DCMC): 
    - For Continuous Input (CCMC, Shannon capacity): 
@@ -48,10 +51,11 @@ Here are some ideas to get you started:
    - etc
   * #### TOA and/or AoA Estimation
     - Using MUSIC Algorithm (will be available soon)
-    - [Using cross-correlation](https://github.com/TiepMH/TimeDelayEstimation)
-      This method is very useful for highly correlated signals. Cross-correlation is a popular method of estimating time delays in WiFi and 5G NR.
-
-### Topic 3: Communications - Standards & Specifications in 5G New Radio
+    - [Using cross-correlation](https://github.com/TiepMH/TimeDelayEstimation):
+      This method is very useful for highly correlated signals. Cross-correlation is a popular method of estimating time delays in WiFi and 5G NR. For example, in Matlab 5G Toolbox, the built-in function ``nrTimingEstimate`` is built based on performing cross-correlation.
+      
+---
+### Topic: 5G New Radio, Standards & Specifications
  * #### Positioning in 5G NR
    - Using PRS (positioning reference signal) in the downlink:
   
@@ -71,7 +75,8 @@ Here are some ideas to get you started:
    
       [Example 2: MISO channel] will be available soon
 
-### Topic 4: Probability and Statistics
+---
+### Topic: Probability and Statistics
  * #### [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
  * Other major topics
 
