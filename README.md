@@ -46,12 +46,18 @@ Here are some ideas to get you started:
    - etc
  * #### 5G New Radio (5G NR)
    - [Positioning in 5G NR](https://github.com/TiepMH/5G-NR-Positioning)
-   - Using PRS in the downlink:
+   - Using PRS (positioning reference signal) in the downlink:
      
      [Example 1: SISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_SISO_channel.m)
      
      [Example 2: MISO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_MISO_channel.m)
-     
+
+ - Using SRS (sounding reference signal) in the uplink:
+
+      [Example 1: SISO channel] will be available soon
+   
+      [Example 2: MISO channel] will be available soon
+   
  * #### Statistics
    - [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
    - Chi-squares
