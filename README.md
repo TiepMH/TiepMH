@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   
      SRS can be used for positioning purposes on the **uplink**, from an UE to a gNB. When the UE transmits SRS to the gNB, the gNB uses the received waveform to estimate TOA. If a network has at least three collaborative gNBs, they can rely on TOAs to localize the UE's position.
 
-     [Example 1: MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_SRS_in_MIMO_channel.m)
+     [Example 1: SRS-based Delay Estimation, Uplink, MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_SRS_in_MIMO_channel.m)
    
 ---
 ### Topic: Probability and Statistics
