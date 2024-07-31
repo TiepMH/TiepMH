@@ -1,4 +1,4 @@
-### Hi there! Welcome to my Github 👋
+### Hello! Welcome to my Github 👋
 
 <!--
 **TiepMH/TiepMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
