@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 ---
 ### Topic: 5G New Radio, Standards & Specifications
  * #### Positioning in 5G NR
-   - Using PRS (positioning reference signal) in the downlink:
+   - Using PRS (positioning reference signal) on the downlink:
   
-     Different gNBs transmit PRS to a user (UE) in the **downlink**. On the UE side, the received waveform can be used to estimate the time of arrivals (TOAs).
+     Different gNBs transmit PRS to a user (UE) on the **downlink**. On the UE side, the received waveform can be used to estimate the time of arrivals (TOAs).
      Each gNB corresponds to a different TOA. As for the UE, it can employ TOAs to localize its position.
      The following three examples present how to estimate TOAs on the UE side.
      
@@ -69,11 +69,15 @@ Here are some ideas to get you started:
 
      [Example 3: PRS-based Delay Estimation, Downlink, MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_PRS_in_MIMO_channel.m)
 
-   - Using SRS (sounding reference signal) in the uplink:
+   - Using SRS (sounding reference signal) on the uplink:
   
-     SRS can be used for positioning purposes in the **uplink**, from an UE to a gNB. When the UE transmits SRS to the gNB, the gNB uses the received waveform to estimate TOA. If a network has at least three collaborative gNBs, they can rely on TOAs to localize the UE's position.
+     SRS can be used for positioning purposes on the **uplink**, from an UE to a gNB. When the UE transmits SRS to the gNB, the gNB uses the received waveform to estimate TOA. If a network has at least three collaborative gNBs, they can rely on TOAs to localize the UE's position.
 
      [Example 1: SRS-based Delay Estimation, Uplink, MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_SRS_in_MIMO_channel.m)
+
+ * #### Illustration of resource allocation
+   - In downlink synchronization:
+     i) Synchronization signal (SS) burst:
    
 ---
 ### Topic: Probability and Statistics
