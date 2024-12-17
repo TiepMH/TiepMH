@@ -76,8 +76,7 @@ Here are some ideas to get you started:
      [Example 1: SRS-based Delay Estimation, Uplink, MIMO channel](https://github.com/TiepMH/5G-NR-Positioning/blob/main/find_Delays_by_using_SRS_in_MIMO_channel.m)
 
  * #### Illustration of resource allocation
-   - In downlink synchronization:
-     i) Synchronization signal (SS) burst:
+   - Synchronization signal (SS) burst in downlink synchronization:
    
 ---
 ### Topic: Probability and Statistics
