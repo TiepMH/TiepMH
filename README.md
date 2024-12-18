@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   * [FFT & IFFT: Visualization with Matlab and Python](https://github.com/TiepMH/FFT_IFFT_in_Matlab_Python/blob/main/FFT_and_IFFT.pdf)
 
 ---
-### Topic: Machine Learning in Communications
+### _Topic_: Machine Learning in Communications
  * #### Deep Learning / Deep Neural Networks:
    - [The Concept of Learning-to-Optimize] [Use DNNs to find near-optimal power-allocation coefficients](https://github.com/TiepMH/tanh_based_Neural_Network)
    - [Anomaly Detection & Estimation] [Use deep auto-encoders to detect abnormal angle of arrivals](https://github.com/TiepMH/AutoEncoder__SpoofingDetection)
 
 ---
-### Topic: Convex Optimization in Communications
+### _Topic_: Convex Optimization in Communications
  * #### Convex Optimization & Matrix Analysis:
    - [Dinkelbach Method](https://github.com/TiepMH/Example__Alternating_Optimization)
    - [Gradient Descent (GD) and Projected-GD Methods]
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
    - [Complexity Analysis](https://github.com/TiepMH/FLOPS_count/blob/main/READ%20ME.pdf)
 
 ---
-### Topic: Communications - Basic Theory & Simple Tutorials
+### _Topic_: Communications - Basic Theory & Simple Tutorials
  * #### Channel Capacity (CCMC & DCMC) will be updated later
    - For Discrete Input (DCMC): 
    - For Continuous Input (CCMC, Shannon capacity): 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       This method is very useful for highly correlated signals. Cross-correlation is a popular method of estimating time delays in WiFi and 5G NR. For example, in Matlab 5G Toolbox, the built-in function ``nrTimingEstimate`` is built based on performing cross-correlation.
       
 ---
-### Topic: 5G New Radio, Standards & Specifications
+### _Topic_: 5G New Radio, Standards & Specifications
  * #### Positioning in 5G NR
    - Using PRS (positioning reference signal) on the downlink:
   
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
      [Illustration of SS blocks on the resource grid](https://github.com/TiepMH/5G-NR-SSB-illustrations)
      
 ---
-### Topic: Probability and Statistics
+### _Topic_: Probability and Statistics
  * #### [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
  * Other major topics
 
