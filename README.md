@@ -77,7 +77,9 @@ Here are some ideas to get you started:
 
  * #### Illustration of resource allocation
    - Synchronization signal (SS) burst in downlink synchronization:
-   
+     
+     [Illustration of SS blocks on the resource grid](https://github.com/TiepMH/5G-NR-SSB-illustrations)
+     
 ---
 ### Topic: Probability and Statistics
  * #### [ANOVA](https://github.com/TiepMH/ANOVA_test/blob/main/ANOVA_test.pdf)
